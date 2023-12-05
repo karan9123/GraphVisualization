@@ -1,0 +1,6 @@
+/* styles.css */
+.central-user { /* Styling for central user */ }
+.user-card { /* Base styling for user cards */ }
+.user-card.tier-1 { /* Specific styling for tier 1 cards */ }
+.user-card.tier-2 { /* Specific styling for tier 2 cards */ }
+.connection-line { /* Styling for connection lines */ }
